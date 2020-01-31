@@ -1,0 +1,10 @@
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\bin\Debug\Virtuace_TrainProject_DAL.exe.config
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\bin\Debug\Virtuace_TrainProject_DAL.exe
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\bin\Debug\Virtuace_TrainProject_DAL.pdb
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\obj\Debug\Virtuace_TrainProject_DAL.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\obj\Debug\Virtuace_TrainProject_DAL.exe
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\obj\Debug\Virtuace_TrainProject_DAL.pdb
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\bin\Debug\Virtuace_TrainProject_BL.exe
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\bin\Debug\Virtuace_TrainProject_BL.pdb
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\bin\Debug\Virtuace_TrainProject_BL.exe.config
+C:\Users\Mikhail\source\repos\Virtuace_TrainProject_1.1\Virtuace_TrainProject_DAL\obj\Debug\Virtuace_TrainProject_DAL.csproj.CopyComplete
